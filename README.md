@@ -37,7 +37,7 @@ Casos de uso al final de katas.py bajo if __name__ == "__main__":.
 Comentarios breves en los pasos más complejos.  
 
 
-Lista de katas incluidas
+# 5) Lista de katas incluidas
 
 Cada enunciado va como comentario justo encima de la función/ejercicio en katas.py.  
 Frecuencias de letras (sin espacios)  
