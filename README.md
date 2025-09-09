@@ -4,37 +4,37 @@ Este proyecto consiste en la resolución de una serie de katas en Python orienta
 
 Objetivo del proyecto
 Resolver una colección de katas de Python para demostrar dominio de:
-Tipos de datos y funciones incorporadas.
-Estructuras de datos y sus métodos.
-Condicionales e iteraciones.
-Funciones.
-POO (Clases).
-Uso de módulos/librerías del temario.
-Buenas prácticas (nombres claros, docstrings, type hints, manejo de errores, pruebas básicas).
+Tipos de datos y funciones incorporadas.  
+Estructuras de datos y sus métodos.  
+Condicionales e iteraciones.  
+Funciones.  
+POO (Clases).  
+Uso de módulos/librerías del temario.  
+Buenas prácticas (nombres claros, docstrings, type hints, manejo de errores, pruebas básicas).  
 
 Cómo ejecutar
-# 1) (Opcional) crear entorno virtual
-python -m venv .venv
-source .venv/bin/activate # Windows: .venv\Scripts\activate
+# 1) (Opcional) crear entorno virtual  
+python -m venv .venv  
+source .venv/bin/activate # Windows: .venv\Scripts\activate  
 
 # 2) (Opcional) instalar pytest si usarás tests
-pip install -r requirements.txt
+pip install -r requirements.txt  
 
 # 3) Ejecutar el archivo con ejemplos de uso
-python katas.py
+python katas.py  
 
 # 4) (Opcional) correr pruebas
-pytest -q
+pytest -q  
 
 
 Buenas prácticas usadas
 
-Docstrings (PEP 257) y type hints (PEP 484).
-Nombrado descriptivo, funciones puras cuando procede.
-Uso de map, filter, reduce y lambda cuando aporta valor.
-Manejo explícito de excepciones y creación de excepción personalizada.
-Casos de uso al final de katas.py bajo if __name__ == "__main__":.
-Comentarios breves en los pasos más complejos.
+Docstrings (PEP 257) y type hints (PEP 484).  
+Nombrado descriptivo, funciones puras cuando procede.  
+Uso de map, filter, reduce y lambda cuando aporta valor.  
+Manejo explícito de excepciones y creación de excepción personalizada.  
+Casos de uso al final de katas.py bajo if __name__ == "__main__":.  
+Comentarios breves en los pasos más complejos.  
 
 
 Lista de katas incluidas
