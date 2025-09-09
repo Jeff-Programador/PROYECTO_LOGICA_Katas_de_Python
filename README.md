@@ -39,46 +39,46 @@ Comentarios breves en los pasos más complejos.
 
 Lista de katas incluidas
 
-Cada enunciado va como comentario justo encima de la función/ejercicio en katas.py.
-Frecuencias de letras (sin espacios)
-Doblar cada número con map
-Filtrar palabras que contengan un objetivo
-Diferencia elemento a elemento de dos listas con map
-Media y aprobado/suspenso (tupla)
-Factorial recursivo
-Convertir lista de tuplas en lista de strings con map
-División con manejo de excepciones (input del usuario)
-Filtrar mascotas prohibidas en España con filter
-Excepción personalizada si lista vacía al calcular promedio
-Validación robusta de edad (0–120) con excepciones
-Longitud por palabra con map
-Lista de tuplas (mayúscula, minúscula) sin repetidos
-Empiezan por letra específica con filter
-lambda que suma 3 a cada número
-Palabras más largas que n con filter
-De dígitos a número con reduce
-Lista de dicts de estudiantes y filter por calificación ≥ 90
-lambda que filtra impares
-Filtrar int de una lista mixta
-Cubo con lambda
-Producto total con reduce
-Concatenar palabras con reduce
-Diferencia total con reduce
-Contar caracteres de una cadena
-lambda resto (mod) de dos números
-Promedio de números
-Primer duplicado en una lista
-Enmascarar cadena con # salvo últimos cuatro
-¿Son anagramas?
-Buscar nombre en lista (input + excepción si no está)
-Buscar nombre completo en empleados (devuelve puesto o mensaje)
-lambda suma elemento a elemento de dos listas
-Clase Arbol con métodos solicitados
-Clase UsuarioBanco con operaciones y validaciones
-procesar_texto (contar, reemplazar, eliminar) llamando a subfunciones
-Día/tarde/noche según hora ingresada
-Calificación en texto según nota numérica
-Área de figura (rectángulo/círculo/triángulo)
-Descuento con cupón (condicionales)
+Cada enunciado va como comentario justo encima de la función/ejercicio en katas.py.  
+Frecuencias de letras (sin espacios)  
+Doblar cada número con map  
+Filtrar palabras que contengan un objetivo  
+Diferencia elemento a elemento de dos listas con map  
+Media y aprobado/suspenso (tupla)  
+Factorial recursivo  
+Convertir lista de tuplas en lista de strings con map  
+División con manejo de excepciones (input del usuario)  
+Filtrar mascotas prohibidas en España con filter  
+Excepción personalizada si lista vacía al calcular promedio  
+Validación robusta de edad (0–120) con excepciones  
+Longitud por palabra con map  
+Lista de tuplas (mayúscula, minúscula) sin repetidos  
+Empiezan por letra específica con filter  
+lambda que suma 3 a cada número  
+Palabras más largas que n con filter  
+De dígitos a número con reduce  
+Lista de dicts de estudiantes y filter por calificación ≥ 90  
+lambda que filtra impares  
+Filtrar int de una lista mixta  
+Cubo con lambda  
+Producto total con reduce  
+Concatenar palabras con reduce  
+Diferencia total con reduce  
+Contar caracteres de una cadena  
+lambda resto (mod) de dos números  
+Promedio de números  
+Primer duplicado en una lista  
+Enmascarar cadena con # salvo últimos cuatro  
+¿Son anagramas?  
+Buscar nombre en lista (input + excepción si no está)  
+Buscar nombre completo en empleados (devuelve puesto o mensaje)  
+lambda suma elemento a elemento de dos listas  
+Clase Arbol con métodos solicitados  
+Clase UsuarioBanco con operaciones y validaciones  
+procesar_texto (contar, reemplazar, eliminar) llamando a subfunciones  
+Día/tarde/noche según hora ingresada  
+Calificación en texto según nota numérica  
+Área de figura (rectángulo/círculo/triángulo)  
+Descuento con cupón (condicionales)  
 
 
