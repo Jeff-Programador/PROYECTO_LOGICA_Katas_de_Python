@@ -22,12 +22,10 @@ class TestKata2:
     """Tests para doblar_lista"""
     
     def test_doblar_lista_basico(self):
-        
         resultado = katas.doblar_lista([1, 2, 3, 4])
         assert resultado == [2, 4, 6, 8]
     
     def test_doblar_lista_vacia(self):
-        
         resultado = katas.doblar_lista([])
         assert resultado == []
 
@@ -36,15 +34,13 @@ class TestKata3:
     """Tests para contiene_objetivo"""
     
     def test_contiene_objetivo_encontrado(self):
-        
         lista = ["gato", "perro", "ratón", "gatito", "lagarto"]
         resultado = katas.contiene_objetivo(lista, "gato")
-        # Based on the original file, only exact 'gato' is found, not 'gatito' or 'lagarto'
-        # This seems to be matching the exact word, not substring
+        # Note: "gato" is not a substring of "gatito" (which is "g-a-t-i-t-o")
+        # nor "lagarto" (which is "l-a-g-a-r-t-o"), so only exact "gato" matches
         assert resultado == ["gato"]
     
     def test_contiene_objetivo_no_encontrado(self):
-        
         lista = ["perro", "ratón"]
         resultado = katas.contiene_objetivo(lista, "gato")
         assert resultado == []
